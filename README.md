@@ -10,4 +10,3 @@ Projeto focado em testar a hipótese de que o comportamento de escuta varia entr
 ```bash
 git clone https://github.com/joaostr22/preferencias-musicais-analise.git
 cd preferencias-musicais-analise
-pip install -r requirements.txt
