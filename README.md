@@ -2,7 +2,7 @@
 
 ## 🎯 Objetivo
 
-Analisar o comportamento de usuários de um serviço de streaming de música e testar a hipótese de que a atividade musical varia entre as cidades Springfield e Shelbyville ao longo da semana.
+Analisar o comportamento de usuários de um serviço de streaming e testar se a atividade musical varia entre Springfield e Shelbyville ao longo da semana.
 
 ## 🧠 Como fiz o projeto
 
