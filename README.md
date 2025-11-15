@@ -6,7 +6,7 @@ Analisar o comportamento de usuários de um serviço de streaming e testar se a 
 
 ## 🧠 Como fiz o projeto
 
-Realizei inspeção e limpeza dos dados, padronização de valores, análise estatística descritiva e construção de visualizações com Python para identificar padrões de consumo musical.
+Realizei limpeza e padronização dos dados, análise estatística descritiva e visualizações para identificar padrões de consumo musical.
 
 ## 🚀 Tecnologias
 - Python
