@@ -1,6 +1,12 @@
 # Análise de prefêrencias musicais 
 
-Projeto focado em testar a hipótese de que o comportamento de escuta varia entre as cidades e ao longo da semana. Realizei inspeção e limpeza dos dados, padronização de valores, análise estatística descritiva e construção de visualizações com Python para identificar padrões de consumo musical.
+## 🎯 Objetivo
+
+Analisar o comportamento de usuários de um serviço de streaming de música e testar a hipótese de que a atividade musical varia entre as cidades Springfield e Shelbyville ao longo da semana.
+
+## 🧠 Como fiz o projeto
+
+Realizei inspeção e limpeza dos dados, padronização de valores, análise estatística descritiva e construção de visualizações com Python para identificar padrões de consumo musical.
 
 ## 🚀 Tecnologias
 - Python
